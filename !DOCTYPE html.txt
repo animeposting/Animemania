@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anime Blog - Home</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Add your custom CSS file here -->
+</head>
+<body>
+  <header>
+    <h1>Anime Blog</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="featured-posts">
+      <h2>Featured Posts</h2>
+      <!-- Add your featured blog posts here -->
+    </section>
+
+    <section class="recent-posts">
+      <h2>Recent Posts</h2>
+      <!-- Add your recent blog posts here -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Anime Blog. All rights reserved.</p>
+  </footer>
+</body>
+</html>
